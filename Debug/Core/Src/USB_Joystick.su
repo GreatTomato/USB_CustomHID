@@ -1,0 +1,2 @@
+../Core/Src/USB_Joystick.c:11:6:joystick_mouse_conversion	24	static
+../Core/Src/USB_Joystick.c:16:16:calulateAxis12to8Parabolic	16	static
